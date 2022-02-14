@@ -1,0 +1,2 @@
+# SUPABOT
+A discord bot 
